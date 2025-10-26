@@ -1,6 +1,8 @@
 # book_log
 The log of books I have read
 
+- [趣味](hobbies.md)
+
 - [行政事務](administration.md)
 - [デジタル・ガバメント](digital_government.md)
 - [リーダーシップ](leadership.md)
